@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 4000;
 
 // ---------- HARDCODED OpenWeather API KEY (for local testing only) ----------
-const OW_API_KEY = '033a5627676933a885963024320efcb2';
+const OW_API_KEY = 'Your Api Key';
 // -------------------------------------------------------------------------
 
 app.use((req, res, next) => {
