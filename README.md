@@ -1,8 +1,8 @@
 <h1 align="center">🌍⚡ Unified Air Pollution Data API</h1>
 
 <p align="center">
-<img src="demo1.jpeg" alt="Demo 1" width="300" style="margin-right:10px"/>
-<img src="demo2.jpeg" alt="Demo 2" width="300"/>
+<img src="Demo1.jpeg" alt="Demo 1" width="300" style="margin-right:10px"/>
+<img src="Demo2.jpeg" alt="Demo 2" width="300"/>
 </p>
 
 <p align="center">
